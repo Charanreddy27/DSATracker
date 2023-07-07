@@ -790,6 +790,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/majority-element/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Searching in an array where adjacent differ by at most k",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/",
+			},
 		]
 	}
 ]
