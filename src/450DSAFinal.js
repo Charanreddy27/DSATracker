@@ -742,6 +742,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Search in a rotated sorted array",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+			},
 		]
 	}
 ]
