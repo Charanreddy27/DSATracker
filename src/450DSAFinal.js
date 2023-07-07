@@ -758,6 +758,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/count-squares3649/1",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Maximum and minimum of an array using minimum number of comparisons",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/",
+			},
 		]
 	}
 ]
