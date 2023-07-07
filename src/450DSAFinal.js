@@ -734,6 +734,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Find a Fixed Point (Value equal to index) in a given array",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1",
+			},
 		]
 	}
 ]
