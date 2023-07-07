@@ -766,6 +766,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Optimum location of point to minimize total distance",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/",
+			},
 		]
 	}
 ]
