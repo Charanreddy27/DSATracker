@@ -863,6 +863,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "minimum no. of swaps required to sort the array",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/minimum-swaps/1",
+			},
 		]
 	}
 ]
