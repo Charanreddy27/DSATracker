@@ -855,6 +855,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/product-array-puzzle/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Sort array according to count of set bits",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0",
+			},
 		]
 	}
 ]
