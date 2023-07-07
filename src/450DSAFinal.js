@@ -806,6 +806,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "find four elements that sum to a given value",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0",
+			},
 		]
 	}
 ]
