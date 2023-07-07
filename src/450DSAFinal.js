@@ -726,7 +726,14 @@ const data = [
 		started: false,
 		doneQuestions: 0,
 		questions: [
-			
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Find first and last positions of an element in a sorted array",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0",
+			},
 		]
 	}
 ]
