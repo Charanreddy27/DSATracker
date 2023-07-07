@@ -871,6 +871,15 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/minimum-swaps/1",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Bishu and Soldiers",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.hackerearth.com/problem/algorithm/bishu-and-soldiers-227/",
+			},
+
 		]
 	}
 ]
