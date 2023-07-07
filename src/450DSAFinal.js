@@ -774,6 +774,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Find the repeating and the missing",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+			},
 		]
 	}
 ]
