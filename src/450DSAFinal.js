@@ -838,6 +838,15 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
 			},
+			
+			{
+				Topic: "Searching & Sorting",
+				Problem: "print all subarrays with 0 sum",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0",
+			},
 		]
 	}
 ]
