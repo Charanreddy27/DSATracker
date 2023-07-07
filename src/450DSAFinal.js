@@ -847,6 +847,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Product array Puzzle",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/product-array-puzzle/0",
+			},
 		]
 	}
 ]
