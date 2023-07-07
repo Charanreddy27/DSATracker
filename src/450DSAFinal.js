@@ -782,6 +782,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "find majority element",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/majority-element/0",
+			},
 		]
 	}
 ]
