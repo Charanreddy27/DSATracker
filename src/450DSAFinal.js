@@ -798,6 +798,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "find a pair with a given difference",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0",
+			},
 		]
 	}
 ]
