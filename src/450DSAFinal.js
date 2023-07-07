@@ -814,6 +814,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "maximum sum such that no 2 elements are adjacent",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/stickler-theif/0",
+			},
 		]
 	}
 ]
