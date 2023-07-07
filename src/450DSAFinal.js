@@ -830,6 +830,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "merge 2 sorted arrays",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
+			},
 		]
 	}
 ]
