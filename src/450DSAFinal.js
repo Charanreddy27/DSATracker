@@ -750,6 +750,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "square root of an integer",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/count-squares3649/1",
+			},
 		]
 	}
 ]
