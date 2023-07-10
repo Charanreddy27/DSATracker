@@ -101,6 +101,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
 			},
+			{
+				Topic: "Array",
+				Problem: "Kadane's Algo [V.V.V.V.V IMP]",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+			},
 		]
 	}
 ]
