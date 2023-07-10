@@ -77,6 +77,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1",
 			},
+			{
+				Topic: "Array",
+				Problem: "Minimum no. of Jumps to reach end of an array",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+			},
 		]
 	}
 ]
