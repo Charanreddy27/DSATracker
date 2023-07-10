@@ -109,6 +109,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Merge Intervals",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://leetcode.com/problems/merge-intervals/",
+			},
 		]
 	}
 ]
