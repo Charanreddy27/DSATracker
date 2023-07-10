@@ -21,6 +21,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1",
 			},
+			{
+				Topic: "Array",
+				Problem: 'Find the "Kth" max and min element of an array ',
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
+			},
 		]
 	}
 ]
