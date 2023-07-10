@@ -69,6 +69,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Minimise the maximum difference between heights [V.IMP]",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1",
+			},
 		]
 	}
 ]
