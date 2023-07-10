@@ -29,6 +29,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+			},
 		]
 	}
 ]
