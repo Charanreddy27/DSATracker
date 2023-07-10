@@ -53,6 +53,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Write a program to cyclically rotate an array by one.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0",
+			},
 		]
 	}
 ]
