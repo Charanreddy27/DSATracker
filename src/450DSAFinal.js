@@ -45,6 +45,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1",
 			},
+			{
+				Topic: "Array",
+				Problem: "Find the Union and Intersection of the two sorted arrays.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0",
+			},
 		]
 	}
 ]
