@@ -61,6 +61,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "find Largest sum contiguous Subarray [V. IMP]",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+			},
 		]
 	}
 ]
