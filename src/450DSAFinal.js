@@ -117,6 +117,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/merge-intervals/",
 			},
+			{
+				Topic: "Array",
+				Problem: "Next Permutation",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://leetcode.com/problems/next-permutation/",
+			},
 		]
 	}
 ]
