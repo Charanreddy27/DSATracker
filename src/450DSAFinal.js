@@ -85,6 +85,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "find duplicate in an array of N+1 Integers",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://leetcode.com/problems/find-the-duplicate-number/",
+			},
 		]
 	}
 ]
