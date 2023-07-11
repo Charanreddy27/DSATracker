@@ -149,6 +149,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
 			},
+			{
+				Topic: "Array",
+				Problem: "find common elements In 3 sorted arrays",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/common-elements1132/1",
+			},
 		]
 	}
 ]
