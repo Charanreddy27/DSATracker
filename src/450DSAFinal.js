@@ -133,6 +133,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Best time to buy and Sell stock",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+			},
 		]
 	}
 ]
