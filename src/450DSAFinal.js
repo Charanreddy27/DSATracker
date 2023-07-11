@@ -141,6 +141,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
 			},
+			{
+				Topic: "Array",
+				Problem: "find all pairs on integer array whose sum is equal to given number",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
+			},
 		]
 	}
 ]
