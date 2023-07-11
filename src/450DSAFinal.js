@@ -197,6 +197,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
 			},
+			{
+				Topic: "Array",
+				Problem: 'Given an array of size n and a number k, find all elements that appear more than " n/k " times.',
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://leetcode.com/problems/majority-element-ii/",
+			},
 		]
 	}
 ]
