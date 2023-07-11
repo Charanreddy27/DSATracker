@@ -213,6 +213,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
 			},
+			{
+				Topic: "Array",
+				Problem: "Find whether an array is a subset of another array",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0",
+			},
 		]
 	}
 ]
