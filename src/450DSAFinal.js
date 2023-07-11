@@ -237,6 +237,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Chocolate Distribution problem",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+			},
 		]
 	}
 ]
