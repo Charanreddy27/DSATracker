@@ -205,6 +205,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/majority-element-ii/",
 			},
+			{
+				Topic: "Array",
+				Problem: "Maximum profit by buying and selling a share atmost twice",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+			},
 		]
 	}
 ]
