@@ -173,6 +173,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Find factorial of a large number",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0",
+			},
 		]
 	}
 ]
