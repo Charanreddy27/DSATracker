@@ -221,6 +221,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Find the triplet that sum to a given value",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0",
+			},
 		]
 	}
 ]
