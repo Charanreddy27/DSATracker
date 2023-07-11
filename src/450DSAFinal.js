@@ -181,6 +181,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "find maximum product subarray ",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
+			},
 		]
 	}
 ]
