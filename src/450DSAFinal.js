@@ -229,6 +229,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Trapping Rain water problem",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0",
+			},
 		]
 	}
 ]
