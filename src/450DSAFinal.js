@@ -125,6 +125,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/next-permutation/",
 			},
+			{
+				Topic: "Array",
+				Problem: "Count Inversion",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+			},
 		]
 	}
 ]
