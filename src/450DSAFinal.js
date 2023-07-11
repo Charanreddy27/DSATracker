@@ -189,6 +189,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
 			},
+			{
+				Topic: "Array",
+				Problem: "Find longest consecutive subsequence",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
+			},
 		]
 	}
 ]
