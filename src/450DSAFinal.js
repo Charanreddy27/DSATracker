@@ -157,6 +157,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/common-elements1132/1",
 			},
+			{
+				Topic: "Array",
+				Problem: "Rearrange the array in alternating positive and negative items with O(1) extra space",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1",
+			},
 		]
 	}
 ]
