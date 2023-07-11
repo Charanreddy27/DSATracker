@@ -165,6 +165,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1",
 			},
+			{
+				Topic: "Array",
+				Problem: "Find if there is any subarray with sum equal to 0",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0",
+			},
 		]
 	}
 ]
