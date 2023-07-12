@@ -342,6 +342,14 @@ const data = [
 					Notes: "",
 					URL: "https://practice.geeksforgeeks.org/problems/sorted-matrix/0",
 				},
+				{
+					Topic: "Matrix",
+					Problem: "Maximum size rectangle",
+					Done: false,
+					Bookmark: false,
+					Notes: "",
+					URL: "https://practice.geeksforgeeks.org/problems/max-rectangle/1",
+				},
 			],
 	}
 ]
