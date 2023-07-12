@@ -334,6 +334,14 @@ const data = [
 					Notes: "",
 					URL: "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1",
 				},
+				{
+					Topic: "Matrix",
+					Problem: "Print elements in sorted order using row-column wise sorted matrix",
+					Done: false,
+					Bookmark: false,
+					Notes: "",
+					URL: "https://practice.geeksforgeeks.org/problems/sorted-matrix/0",
+				},
 			],
 	}
 ]
