@@ -245,6 +245,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Smallest Subarray with sum greater than a given value",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://leetcode.com/problems/minimum-size-subarray-sum/",
+			},
 		]
 	}
 ]
