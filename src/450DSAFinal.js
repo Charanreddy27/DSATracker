@@ -277,6 +277,14 @@ const data = [
 				Notes: "",
 				URL: "https://app.glider.ai/practice/problem/basic-programming/make-array-palindrome/problem",
 			},
+			{
+				Topic: "Array",
+				Problem: "Median of 2 sorted arrays of equal size",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/find-the-median0527/1",
+			},
 		]
 	}
 ]
