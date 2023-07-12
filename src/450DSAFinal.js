@@ -326,6 +326,14 @@ const data = [
 					Notes: "",
 					URL: "https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
 				},
+				{
+					Topic: "Matrix",
+					Problem: "Find row with maximum no. of 1's",
+					Done: false,
+					Bookmark: false,
+					Notes: "",
+					URL: "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1",
+				},
 			],
 	}
 ]
