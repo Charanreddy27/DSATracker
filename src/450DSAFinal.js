@@ -358,6 +358,14 @@ const data = [
 					Notes: "",
 					URL: "https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/",
 				},
+				{
+					Topic: "Matrix",
+					Problem: "Rotate matrix by 90 degrees",
+					Done: false,
+					Bookmark: false,
+					Notes: "",
+					URL: "https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/",
+				},
 			],
 	}
 ]
