@@ -310,6 +310,14 @@ const data = [
 					Notes: "",
 					URL: "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0",
 				},
+				{
+					Topic: "Matrix",
+					Problem: "Search an element in a matriix",
+					Done: false,
+					Bookmark: false,
+					Notes: "",
+					URL: "https://leetcode.com/problems/search-a-2d-matrix/",
+				},
 			],
 	}
 ]
