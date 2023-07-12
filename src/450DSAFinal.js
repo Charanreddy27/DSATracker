@@ -366,6 +366,14 @@ const data = [
 					Notes: "",
 					URL: "https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/",
 				},
+				{
+					Topic: "Matrix",
+					Problem: "Kth smallest element in a row-column wise sorted matrix",
+					Done: false,
+					Bookmark: false,
+					Notes: "",
+					URL: "https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1",
+				},
 			],
 	}
 ]
