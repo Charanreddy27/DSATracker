@@ -269,6 +269,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0",
 			},
+			{
+				Topic: "Array",
+				Problem: "Minimum no. of operations required to make an array palindrome",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://app.glider.ai/practice/problem/basic-programming/make-array-palindrome/problem",
+			},
 		]
 	}
 ]
