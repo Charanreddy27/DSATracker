@@ -318,6 +318,14 @@ const data = [
 					Notes: "",
 					URL: "https://leetcode.com/problems/search-a-2d-matrix/",
 				},
+				{
+					Topic: "Matrix",
+					Problem: "Find median in a row wise sorted matrix",
+					Done: false,
+					Bookmark: false,
+					Notes: "",
+					URL: "https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+				},
 			],
 	}
 ]
