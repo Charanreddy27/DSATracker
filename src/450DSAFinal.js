@@ -261,6 +261,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
 			},
+			{
+				Topic: "Array",
+				Problem: "Minimum swaps required bring elements less equal K together",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0",
+			},
 		]
 	}
 ]
