@@ -302,6 +302,14 @@ const data = [
 			started: false,
 			doneQuestions: 0,
 			questions: [
+				{
+					Topic: "Matrix",
+					Problem: "Spiral traversal on a Matrix",
+					Done: false,
+					Bookmark: false,
+					Notes: "",
+					URL: "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0",
+				},
 			],
 	}
 ]
