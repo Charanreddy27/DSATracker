@@ -374,6 +374,14 @@ const data = [
 					Notes: "",
 					URL: "https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1",
 				},
+				{
+					Topic: "Matrix",
+					Problem: "Common elements in all rows of a given matrix",
+					Done: false,
+					Bookmark: false,
+					Notes: "",
+					URL: "https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/",
+				},
 			],
 	}
 ]
