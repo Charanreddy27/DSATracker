@@ -253,6 +253,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/minimum-size-subarray-sum/",
 			},
+			{
+				Topic: "Array",
+				Problem: "Three way partitioning of an array around a given value",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
+			},
 		]
 	}
 ]
