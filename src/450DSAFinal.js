@@ -285,6 +285,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/find-the-median0527/1",
 			},
+			{
+				Topic: "Array",
+				Problem: "Median of 2 sorted arrays of different size",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/",
+			},
 		]
 	}
 ]
