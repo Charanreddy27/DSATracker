@@ -398,6 +398,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/reverse-string/",
 			},
+			{
+				Topic: "String",
+				Problem: "Check whether a String is Palindrome or not",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1",
+			},
 		]
 	}
 ]
