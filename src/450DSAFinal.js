@@ -462,6 +462,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Print all Subsequences of a string.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/print-subsequences-string/",
+			},
 		]
 	}
 ]
