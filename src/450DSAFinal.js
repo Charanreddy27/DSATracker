@@ -406,6 +406,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1",
 			},
+			{
+				Topic: "String",
+				Problem: "Find Duplicate characters in a string",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
+			},
 		]
 	}
 ]
