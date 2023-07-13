@@ -478,6 +478,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Split the Binary string into two substring with equal 0’s and 1’s",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/",
+			},
 		]
 	}
 ]
