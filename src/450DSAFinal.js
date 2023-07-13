@@ -454,6 +454,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Find Longest Recurring Subsequence in String",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
+			},
 		]
 	}
 ]
