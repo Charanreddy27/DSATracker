@@ -446,6 +446,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/count-and-say/",
 			},
+			{
+				Topic: "String",
+				Problem: "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0",
+			},
 		]
 	}
 ]
