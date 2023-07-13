@@ -414,6 +414,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
 			},
+			{
+				Topic: "String",
+				Problem: "Why strings are immutable in Java?",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.baeldung.com/java-string-immutable",
+			},
 		]
 	}
 ]
