@@ -422,6 +422,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.baeldung.com/java-string-immutable",
 			},
+			{
+				Topic: "String",
+				Problem: "Write a Code to check whether one string is a rotation of another",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/",
+			},
 		]
 	}
 ]
