@@ -430,6 +430,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/",
 			},
+			{
+				Topic: "String",
+				Problem: "Write a Program to check whether a string is a valid shuffle of two strings or not",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings",
+			},
 		]
 	}
 ]
