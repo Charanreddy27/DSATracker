@@ -502,6 +502,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
 			},
+			{
+				Topic: "String",
+				Problem: "Find next greater number with same set of digits. [Very Very IMP]",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/next-permutation/0",
+			},
 		]
 	}
 ]
