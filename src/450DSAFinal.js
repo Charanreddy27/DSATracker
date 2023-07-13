@@ -470,6 +470,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/print-subsequences-string/",
 			},
+			{
+				Topic: "String",
+				Problem: "Print all the permutations of the given string",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+			},
 		]
 	}
 ]
