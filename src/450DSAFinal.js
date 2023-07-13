@@ -486,6 +486,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/",
 			},
+			{
+				Topic: "String",
+				Problem: "Word Wrap Problem [VERY IMP].",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/word-wrap/0",
+			},
 		]
 	}
 ]
