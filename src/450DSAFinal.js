@@ -582,6 +582,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
 			},
+			{
+				Topic: "String",
+				Problem: "Longest Common Prefix",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://leetcode.com/problems/longest-common-prefix/",
+			},
 		]
 	}
 ]
