@@ -574,6 +574,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/find-count-number-given-string-present-2d-character-array/",
 			},
+			{
+				Topic: "String",
+				Problem: "Boyer Moore Algorithm for Pattern Searching.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
+			},
 		]
 	}
 ]
