@@ -566,6 +566,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
 			},
+			{
+				Topic: "String",
+				Problem: "Count of number of given string in 2D character array",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/find-count-number-given-string-present-2d-character-array/",
+			},
 		]
 	}
 ]
