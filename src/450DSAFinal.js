@@ -550,6 +550,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/",
 			},
+			{
+				Topic: "String",
+				Problem: "Minimum number of bracket reversals needed to make an expression balanced.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/count-the-reversals/0",
+			},
 		]
 	}
 ]
