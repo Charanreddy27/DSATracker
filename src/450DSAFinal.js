@@ -526,6 +526,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/word-break/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Rabin Karp Algo",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
+			},
 		]
 	}
 ]
