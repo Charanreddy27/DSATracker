@@ -542,6 +542,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
 			},
+			{
+				Topic: "String",
+				Problem: "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/",
+			},
 		]
 	}
 ]
