@@ -606,6 +606,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/find-first-repeated-word-string/",
 			},
+			{
+				Topic: "String",
+				Problem: "Minimum number of swaps for bracket balancing.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0",
+			},
 		]
 	}
 ]
