@@ -590,6 +590,14 @@ const data = [
 				Notes: "",
 				URL: "https://leetcode.com/problems/longest-common-prefix/",
 			},
+			{
+				Topic: "String",
+				Problem: "Number of flips to make binary string alternate",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/min-number-of-flips/0",
+			},
 		]
 	}
 ]
