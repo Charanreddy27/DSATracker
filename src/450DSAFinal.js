@@ -558,6 +558,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/count-the-reversals/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Count All Palindromic Subsequence in a given String.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+			},
 		]
 	}
 ]
