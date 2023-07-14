@@ -510,6 +510,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/next-permutation/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Balanced Parenthesis problem.[Imp]",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+			},
 		]
 	}
 ]
