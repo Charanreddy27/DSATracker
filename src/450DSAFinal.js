@@ -622,6 +622,15 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Program to generate all possible valid IP addresses from given  string.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/",
+			},
+			
 		]
 	}
 ]
