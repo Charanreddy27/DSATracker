@@ -614,6 +614,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Find the longest common subsequence between two strings.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+			},
 		]
 	}
 ]
