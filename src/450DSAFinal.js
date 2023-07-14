@@ -598,6 +598,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/min-number-of-flips/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Find the first repeated word in string.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/find-first-repeated-word-string/",
+			},
 		]
 	}
 ]
