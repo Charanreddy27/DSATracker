@@ -638,6 +638,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/smallest-distant-window/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Rearrange characters in a string such that no two adjacent are same",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+			},
 		]
 	}
 ]
