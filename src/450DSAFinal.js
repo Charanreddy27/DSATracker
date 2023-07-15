@@ -678,6 +678,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/consecutive-elements/0",
 			},
+			{
+				Topic: "String",
+				Problem: "String matching where one string contains wildcard characters",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0",
+			},
 		]
 	}
 ]
