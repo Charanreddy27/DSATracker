@@ -630,7 +630,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/",
 			},
-			
+			{
+				Topic: "String",
+				Problem: "Write a program to find the smallest window that contains all characters of string itself.",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/smallest-distant-window/0",
+			},
 		]
 	}
 ]
