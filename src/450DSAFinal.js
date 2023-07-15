@@ -670,6 +670,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Recursively remove all adjacent duplicates",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/consecutive-elements/0",
+			},
 		]
 	}
 ]
