@@ -702,6 +702,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/",
 			},
+			{
+				Topic: "String",
+				Problem: "Check if two given strings are isomorphic to each other",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/isomorphic-strings/0",
+			},
 		]
 	}
 ]
