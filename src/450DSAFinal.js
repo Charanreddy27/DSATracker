@@ -662,6 +662,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Find the smallest window in a string containing all characters of another string",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
+			},
 		]
 	}
 ]
