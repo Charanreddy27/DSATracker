@@ -686,6 +686,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Function to find Number of customers who could not get a computer",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/",
+			},
 		]
 	}
 ]
