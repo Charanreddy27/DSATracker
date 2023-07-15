@@ -646,6 +646,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Minimum characters to be added at front to make string palindrome",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/",
+			},
 		]
 	}
 ]
