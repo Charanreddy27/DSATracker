@@ -710,6 +710,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/isomorphic-strings/0",
 			},
+			{
+				Topic: "String",
+				Problem: "Recursively print all sentences that can be formed from list of word lists",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/",
+			},
 		]
 	}
 ]
