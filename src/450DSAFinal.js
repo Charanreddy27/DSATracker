@@ -654,6 +654,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/",
 			},
+			{
+				Topic: "String",
+				Problem: "Given a sequence of words, print all anagrams together",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+			},
 		]
 	}
 ]
