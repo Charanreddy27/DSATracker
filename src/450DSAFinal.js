@@ -895,6 +895,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Find pivot element in a sorted array",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/",
+			},
 
 		]
 	}
