@@ -903,6 +903,14 @@ const data = [
 				Notes: "",
 				URL: "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "K-th Element of Two Sorted Arrays",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0",
+			},
 
 		]
 	}
