@@ -879,6 +879,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.hackerearth.com/problem/algorithm/bishu-and-soldiers-227/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Rasta and Kheshtak",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/",
+			},
 
 		]
 	}
