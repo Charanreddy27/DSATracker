@@ -887,6 +887,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Kth smallest number again",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/",
+			},
 
 		]
 	}
