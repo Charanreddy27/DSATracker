@@ -919,6 +919,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.spoj.com/problems/AGGRCOW/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Book Allocation Problem",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
+			},
 
 		]
 	}
