@@ -927,6 +927,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "EKOSPOJ:",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.spoj.com/problems/EKO/",
+			},
 
 		]
 	}
