@@ -935,6 +935,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.spoj.com/problems/EKO/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Job Scheduling Algo",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/",
+			},
 
 		]
 	}
