@@ -943,6 +943,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Missing Number in AP",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/arithmetic-number/0",
+			},
 
 		]
 	}
