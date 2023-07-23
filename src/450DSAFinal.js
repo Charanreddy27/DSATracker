@@ -983,6 +983,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.spoj.com/problems/ANARC05B/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Subset Sums",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.spoj.com/problems/SUBSUMS/",
+			},
 
 		]
 	}
