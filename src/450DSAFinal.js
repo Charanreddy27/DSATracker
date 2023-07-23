@@ -991,6 +991,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.spoj.com/problems/SUBSUMS/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Findthe inversion count",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+			},
 
 		]
 	}
