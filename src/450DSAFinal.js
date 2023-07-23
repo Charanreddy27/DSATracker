@@ -959,6 +959,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Painters Partition Problem:",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
+			},
 
 		]
 	}
