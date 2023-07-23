@@ -975,6 +975,14 @@ const data = [
 				Notes: "",
 				URL: "https://www.spoj.com/problems/PRATA/",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "DoubleHelix SPOJ",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.spoj.com/problems/ANARC05B/",
+			},
 
 		]
 	}
