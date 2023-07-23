@@ -951,6 +951,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/arithmetic-number/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Smallest number with atleastn trailing zeroes infactorial",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1",
+			},
 
 		]
 	}
