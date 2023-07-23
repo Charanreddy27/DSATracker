@@ -999,6 +999,14 @@ const data = [
 				Notes: "",
 				URL: "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
 			},
+			{
+				Topic: "Searching & Sorting",
+				Problem: "Implement Merge-sort in-place",
+				Done: false,
+				Bookmark: false,
+				Notes: "",
+				URL: "https://www.geeksforgeeks.org/in-place-merge-sort/",
+			},
 
 		]
 	}
